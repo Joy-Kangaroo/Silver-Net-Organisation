@@ -1,0 +1,30 @@
+<style>
+
+<title style>Silver Net Organisation</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="SilverNetOrganisationLogo.png">
+
+<nav class="navbar" style="font-size:300%;background-color:darkcyan;padding:2%;margin:1%;">
+<a href="silvernetorganisationwebsite.html"><button class="nav-button" style="background-color:pink;border:5px solid white;color:blue;padding:1% 5%;text-align:center;display:inline-block;font-size:20px;border-radius:12px;">Home</button></a>
+<a href="AboutUsPage.html"><button class="nav-button" style="background-color:pink; border:5px solid white;color:blue;padding:1% 5%;text-align:center;display:inline-block;font-size:20px;border-radius:12px;">About US</button></a>
+<a href="SilverNetRadioPage.html"><button class="nav-button" style="background-color:pink; border:5px solid white;color:blue;padding:1% 5%;text-align:center;display:inline-block;font-size:20px;border-radius:12px;">Silver Net Radio</button></a>
+</nav>
+
+.navbar {font-size:100%;background-color:darkcyan;padding:2%;margin:1%;}
+
+.navbar a{colour:white;margin-right:30px;}
+
+.navbar a:hover {color:white;}
+
+.nav-button {background-color:pink; border:5px solid white;color:blue;padding:1% 5%;text-align:center;display:inline-block;font-size:100%;border-radius:12px;margin:1%;}
+
+.nav-button:hover {color:white;}
+
+h1 {border:10px solid Violet;text-align:center;font-size:500%;margin:5%;position: relative;padding:5%;}
+
+.context {background-color:lightpink;padding:50px;border:10px solid white;border-radius:5px;margin:3% 5%;position: relative;}
+
+<footer><div style=background-color:darkcyan;padding:2%;"><img src="WebsiteFooter.Png"; alt="Silver Net Organisation"; style="width:100%; height:auto; display: block;"></div></footer>
+
+
+</style>
